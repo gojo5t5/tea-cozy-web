@@ -7,7 +7,6 @@ html {
   background-color: black;
   font-size: 22px;
   text-align: center;
-  background-repeat: no-repeat;
 }
 
 a {
@@ -69,7 +68,7 @@ nav span {
 #mission {
   height: 700px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
-  width: 1200px;
+  background-repeat: no-repeat;
   padding-top: 70px;
 }
 
@@ -114,8 +113,7 @@ nav span {
 #locations {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   height: 500px;
-  width: 1200px;
-
+  background-repeat: no-repeat;
   padding-top: 70px;
 }
 
