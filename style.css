@@ -70,6 +70,7 @@ nav span {
   height: 700px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
   background-repeat: no-repeat;
+  background-position: center;
   padding-top: 70px;
 }
 
@@ -115,6 +116,7 @@ nav span {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   height: 500px;
   background-repeat: no-repeat;
+  background-position: center;
   padding-top: 70px;
 }
 
